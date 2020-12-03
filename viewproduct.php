@@ -161,7 +161,7 @@ else
 								$prodname = $row["prodname"];
 								$path = $row["path"];
 								$category = $row["category"];
-								$price = "Rs. " . $row["price"];
+								$price = $row['prodcurrency'] . " " . $row["price"];
 								$desc = $row["descr"];
 								$width="150px";
 								$height="150px";
