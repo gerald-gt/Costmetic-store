@@ -1,8 +1,11 @@
-# Jewellery-Shop
-This is Demo Site for Jewelry Shop Design by S.Gerald Nelson
+# Costmetic-Store
+This is Demo Site for Cosmetic-Store online shopping Design by S.Gerald Nelson
 
-This contain Jewelry shop Demo site with out the Shopping Cart Function / Admin Panel.
+This contain Online cosmetic-store Demo site with out the Shopping Cart Function / Admin Panel.
 But I have this web site with the Shopping Cart Function + Admin panel as well….
+
+
+For Database email gerald@travel-pal.org I will send
 
 Just Extract Database and make the connection in the Configuration file.
 
